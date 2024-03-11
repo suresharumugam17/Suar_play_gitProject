@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Suar_play_gitProject
+  gitServerName: suar_github
+  gitUrl: https://github.com/suresharumugam17/Suar_play_gitProject
+  gitUsername: suresharumugam17
+  gitBranch: main
